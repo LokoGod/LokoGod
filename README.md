@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LokoGod
-- 👀 I’m interested in ... Mobile application development
-- 🌱 I’m currently learning ... Web Development
+- 👀 I’m interested in ... Cloud Engineering
+- 🌱 I’m currently learning ... Back-End Development
 - 💞️ I’m looking to collaborate on ... anything i can be helpful
 - 📫 How to reach me ... mpansuja007@gmail.com
 
