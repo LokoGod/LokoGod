@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LokoGod
-- 👀 I’m interested in ... Cloud Engineering
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ... anything i can be helpful
+- 👀 I’m interested in ... Cloud Development
+- 🌱 I’m currently learning ... Server-side development
+- 💞️ I’m looking to collaborate on ... anything I can be helpful
 - 📫 How to reach me ... mpansuja007@gmail.com
 
 <!---
