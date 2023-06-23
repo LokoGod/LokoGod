@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LokoGod
+- 👋 Hi, I’m @Mayukha Palihena
 - 👀 I’m interested in ... Cloud Development
 - 🌱 I’m currently learning ... Server-side development
 - 💞️ I’m looking to collaborate on ... anything I can be helpful
