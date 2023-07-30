@@ -2,8 +2,10 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/32/575/601/mountains-rock-graphics-pixels-wallpaper-preview.jpg" />
 </p>
 
+<p align="center">
 👋 Hi, I’m @Mayukha Palihena<br>
-
+  I'm a 👨🏽‍💻 JavaScript Backend Developer<br>
+</p>
 
 <p align="center">asasdasd</p>
 
