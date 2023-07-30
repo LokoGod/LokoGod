@@ -2,7 +2,7 @@
 👋 Hi, I’m @Mayukha Palihena<br>- 👀 I’m interested in ... Cloud Development<br>- 🌱 I’m currently learning ... Server-side development<br>- 💞️ I’m looking to collaborate on ... anything I can be helpful<br>- 📫 How to reach me ... mpansuja007@gmail.com
 
 <p align="center" style="border-radius: 25px;">
-  <img src="https://c4.wallpaperflare.com/wallpaper/712/851/599/artistic-pixel-art-8-bit-wallpaper-preview.jpg" />
+  <img src="[https://c4.wallpaperflare.com/wallpaper/712/851/599/artistic-pixel-art-8-bit-wallpaper-preview.jpg](https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif)" />
 </p>
 
 <p align="center">asasdasd</p>
