@@ -5,11 +5,9 @@
 <p align="center">
 👋 Hello There!, I’m @Mayukha Palihena<br>
   I'm a 👨🏽‍💻 JavaScript Backend Developer<br>
-  Currently pursuing the path of ☁️ Cloud Development  
+  Currently learning ☁️ The Cloud<br>
+  Would 💓 to help with community projects
 </p>
-
-<p align="center">asasdasd</p>
-
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
