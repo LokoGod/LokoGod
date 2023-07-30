@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-👋 Hi, I’m @Mayukha Palihena<br>
+👋 Hello There!, I’m @Mayukha Palihena<br>
   I'm a 👨🏽‍💻 JavaScript Backend Developer<br>
+  Currently pursuing the path of ☁️ Cloud Development  
 </p>
 
 <p align="center">asasdasd</p>
