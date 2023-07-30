@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://c4.wallpaperflare.com/wallpaper/32/575/601/mountains-rock-graphics-pixels-wallpaper-preview.jpg" />
-  👋 Hi, I’m @Mayukha Palihena<br>
 </p>
+
+👋 Hi, I’m @Mayukha Palihena<br>
 
 
 <p align="center">asasdasd</p>
