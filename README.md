@@ -2,7 +2,7 @@
 👋 Hi, I’m @Mayukha Palihena<br>- 👀 I’m interested in ... Cloud Development<br>- 🌱 I’m currently learning ... Server-side development<br>- 💞️ I’m looking to collaborate on ... anything I can be helpful<br>- 📫 How to reach me ... mpansuja007@gmail.com
 
 <p align="center">
-  <img src="[https://example.com/rounded-corner-8bit.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2F8bit-gif-18422376&psig=AOvVaw0MY8-ubsC6vNZOZiDSP-r9&ust=1690785887075000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiov7TqtYADFQAAAAAdAAAAABAI)" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/607/154/376/pixel-art-pixels-8-bit-rock-wallpaper-preview.jpg" />
 </p>
 
 
