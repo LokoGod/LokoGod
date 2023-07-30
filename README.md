@@ -2,7 +2,7 @@
 👋 Hi, I’m @Mayukha Palihena<br>- 👀 I’m interested in ... Cloud Development<br>- 🌱 I’m currently learning ... Server-side development<br>- 💞️ I’m looking to collaborate on ... anything I can be helpful<br>- 📫 How to reach me ... mpansuja007@gmail.com
 
 <p align="center">
-![souls-gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D881466112&psig=AOvVaw22uCP4vnb1KBsz9UVnbXt9&ust=1690786182060000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjOscHrtYADFQAAAAAdAAAAABAX.gif)
+![](http://i.imgur.com/OUkLi.gif)
 </p>
 
 
