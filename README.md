@@ -4,8 +4,7 @@
 
 <p align="center">
 👋 Hello There!, I’m @Mayukha Palihena<br>
-  I'm a 👨🏽‍💻 JavaScript Fullstack Developer<br>
-  Currently learning ☁️ The Cloud<br>
+  I'm a 👨🏽‍💻 IT Specialist<br>
   Would 💓 to help with community projects
 </p>
 
