@@ -4,7 +4,7 @@
 
 <p align="center">
 👋 Hello There!, I’m @Mayukha Palihena<br>
-  I'm a 👨🏽‍💻 IT Specialist<br>
+  I'm an 👨🏽‍💻 IT Specialist<br>
   Would 💓 to help with community projects
 </p>
 
